@@ -1,13 +1,13 @@
 # Crime Data Generation and Power BI Dashboard Project
 
-This project generates synthetic crime data for India and provides instructions for creating a Power BI dashboard using the generated data.
+This project generates synthetic crime data for India and provides instructions for creating a Power BI dashboard using the generated data.<br>
 **Project Structure**
 ```
 
 crime-data-project/
 │
 ├── data/
-│   ├── synthetic_crime_data_india.csv    # The generated dataset
+│   ├── crime_data_india.csv    # The generated dataset
 │
 ├── notebooks/
 │   ├── crime_data_generation.ipynb       # The Jupyter notebook
@@ -61,7 +61,7 @@ python scripts/generate_crime_data.py
 5.**Power BI Dashboard Instructions**
 ```Open Power BI Desktop.
 
-Load the data/synthetic_crime_data_india.csv file into Power BI.
+Load the data/crime_data_india.csv file into Power BI.
 
 Create visualizations based on the columns in the dataset:
 
