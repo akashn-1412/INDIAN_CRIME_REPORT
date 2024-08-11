@@ -45,7 +45,6 @@ source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 ```
 **3.Install the required packages:**
 ```
-
 pip install -r requirements.txt
 ```
 🔍 Generating Data
@@ -82,6 +81,7 @@ python scripts/generate_crime_data.py
 Here are the categorized images representing different aspects of the crime data:
 
 **1.CRIME_REPORT**
+
 ![CRIME_REPORT](https://github.com/user-attachments/assets/01d9e4b7-4ac8-4697-ab2b-a08c6b9dbe7e)
 
 
@@ -104,5 +104,6 @@ Here are the categorized images representing different aspects of the crime data
 
 ![UNDER_INVESTIGATION_CRIME_REPORT](https://github.com/user-attachments/assets/c64b0873-4693-474d-9ebc-b0906653e57f)
 
+## 📬 Contact
 
-
+For questions or feedback, reach out to [Akash Nishad](mailto:akashn1412@gmail.com). You can also connect via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and [GitHub](https://github.com/your-github-profile).
